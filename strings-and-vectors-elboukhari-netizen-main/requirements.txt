@@ -1,0 +1,5 @@
+numpy>=1.26.0  # Compatible with Python 3.12
+pytest==7.2.0  # Testing framework
+pylint==2.17.0  # Code linting
+setuptools>=65.5.0  # Required for package setup
+wheel>=0.40.0  # Required for building wheels
